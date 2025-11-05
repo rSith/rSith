@@ -23,16 +23,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rSith&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=rSith&theme=tokyonight)
-
-</div>
-
 ## 🎯 Current Focus
 
 - 📊 Statistical analysis and modeling
@@ -47,6 +37,5 @@
 ---
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=rSith&color=blueviolet)
 
 </div>
