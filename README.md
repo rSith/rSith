@@ -49,6 +49,7 @@ B.Sc. (Hons) Computer Science · Wayamba University of Sri Lanka · Kandy, Sri L
   <img src="./profile/top-langs.svg" alt="Top languages" height="165" />
 </p>
 
+<a href="https://daily.dev/rsith"><img src="https://api.daily.dev/devcards/v2/GeItEQnsQCSvu7JDFbGzC.png?type=wide&r=l9a" width="652" alt="Ranshitha Attanayake's Dev Card"/></a>
 ---
 
 Open to internships and collaborations in **ML, data science and analytics**. The quickest way to reach me is [LinkedIn](https://www.linkedin.com/in/rSith2002/).
