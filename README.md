@@ -6,14 +6,11 @@ B.Sc. (Hons) Computer Science · Wayamba University of Sri Lanka · Kandy, Sri L
 
 <a href="https://daily.dev/rsith"><img src="https://api.daily.dev/devcards/v2/GeItEQnsQCSvu7JDFbGzC.png?type=wide&r=l9a" width="652" alt="Ranshitha Attanayake's Dev Card"/></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rSith2002-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rSith2002/)
-[![GitHub followers](https://img.shields.io/github/followers/rSith?style=flat&logo=github&label=Followers)](https://github.com/rSith?tab=followers)
-
 ---
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,php,mysql,flask,tensorflow,sklearn,vscode,git,github&perline=5" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,php,mysql,flask,tensorflow,sklearn,vscode,git,github" />
   </a>
 </p>
 
