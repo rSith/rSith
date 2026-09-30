@@ -11,7 +11,11 @@ B.Sc. (Hons) Computer Science · Wayamba University of Sri Lanka · Kandy, Sri L
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,php,mysql,flask,tensorflow,sklearn,vscode,git,github&perline=5)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,php,mysql,flask,tensorflow,sklearn,vscode,git,github&perline=5" />
+  </a>
+</p>
 
 ### Activity
 
