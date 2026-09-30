@@ -11,60 +11,7 @@ B.Sc. (Hons) Computer Science · Wayamba University of Sri Lanka · Kandy, Sri L
 
 ---
 
-### Now
-
-- Working through the **Machine Learning Specialization** and **Mathematics for ML** (DeepLearning.AI), with every lab and notebook in the repos below
-- Taking **Machine Learning in Production** to learn how models are deployed and maintained
-- Building a **Job Market Analyzer** in Python on top of the Adzuna API
-- Next up: a **student performance prediction** model, my first end-to-end ML project from EDA to a Streamlit demo
-
-### Featured work
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [machine-learning-specialization](https://github.com/rSith/machine-learning-specialization) | Notebooks covering Python, data manipulation and core ML concepts, from regression to neural networks | Python · Jupyter · NumPy |
-| [aiml-python-foundations](https://github.com/rSith/aiml-python-foundations) | My Python-for-ML groundwork: data types, control flow, functions, built up notebook by notebook | Python · Colab |
-| [Obsidian-CS-Vault](https://github.com/rSith/Obsidian-CS-Vault) | My linked knowledge base for Computer Science coursework | Markdown · Obsidian |
-| [travel-web](https://github.com/rSith/travel-web) | Multi-page travel website built for a web design course | HTML · CSS |
-
-**Also built (coursework, not public yet):** an Industrial & Operations Cost Tracker in Java (OOP, MySQL, a BOM tree for recursive cost rollup, and a priority queue for alerts), and DocFinder, a JavaFX + MySQL application.
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Frameworks & Libraries
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7397?style=for-the-badge&logo=xampp&logoColor=white)
-
-### Background
-
-- **11-month industry traineeship** at DSP Controls, working on Building Management Systems and 3D modelling for Singapore-based construction projects
-- **Vice Chair**, IEEE Student Branch, Wayamba University, and **Project Chair** of LeadScape '26
-- Started in Mathematics & Statistics before specialising in CS, which is where my interest in data comes from
-- Certified in AI/ML and in 3D Animation & VFX
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,php,mysql,flask,tensorflow,sklearn,vscode,git,github&perline=5)](https://skillicons.dev)
 
 ### Activity
 
