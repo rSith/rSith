@@ -1,5 +1,5 @@
 # Hi, I'm Ranshitha 👋
-<img align="right" src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif" width="150&quot;">
+<img align="center" src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif" width="150&quot;">
 
 **B.Sc. (Hons) Computer Science · Wayamba University of Sri Lanka · Kandy, Sri Lanka**
 
